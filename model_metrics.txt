@@ -1,0 +1,23 @@
+
+Final Model: Gradient Boosting Regressor
+
+Features:
+- Sugars (g)
+- Total Fat (g)
+- Protein (g)
+- Caffeine (mg)
+- Sodium (mg)
+- Total Carbohydrates (g)
+- Cholesterol (mg)
+- Dietary Fibre (g)
+- Beverage Category
+- Beverage Preparation
+
+Parameters:
+random_state=42
+
+Performance Metrics:
+
+MAE: 13.31
+RMSE: 19.11
+R2 Score: 0.952
